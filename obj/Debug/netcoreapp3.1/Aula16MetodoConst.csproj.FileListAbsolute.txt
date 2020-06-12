@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula16MetodoConst\bin\Debug\netcoreapp3.1\Aula16MetodoConst.exe
+C:\Breno USA\Senai\Aula16MetodoConst\bin\Debug\netcoreapp3.1\Aula16MetodoConst.deps.json
+C:\Breno USA\Senai\Aula16MetodoConst\bin\Debug\netcoreapp3.1\Aula16MetodoConst.runtimeconfig.json
+C:\Breno USA\Senai\Aula16MetodoConst\bin\Debug\netcoreapp3.1\Aula16MetodoConst.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula16MetodoConst\bin\Debug\netcoreapp3.1\Aula16MetodoConst.dll
+C:\Breno USA\Senai\Aula16MetodoConst\bin\Debug\netcoreapp3.1\Aula16MetodoConst.pdb
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.dll
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.pdb
+C:\Breno USA\Senai\Aula16MetodoConst\obj\Debug\netcoreapp3.1\Aula16MetodoConst.genruntimeconfig.cache
